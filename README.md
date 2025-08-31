@@ -27,4 +27,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yohannes18/leetcode/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Yohannes18/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
