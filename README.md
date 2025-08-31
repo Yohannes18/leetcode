@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yohannes18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Yohannes18/leetcode/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
@@ -31,4 +32,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yohannes18/leetcode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yohannes18/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yohannes18/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
