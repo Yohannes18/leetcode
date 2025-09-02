@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/Yohannes18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Yohannes18/leetcode/tree/master/0037-sudoku-solver) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yohannes18/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yohannes18/leetcode/tree/master/0009-palindrome-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
 |  |
 | ------- |
@@ -49,4 +51,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Yohannes18/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Sorting
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
