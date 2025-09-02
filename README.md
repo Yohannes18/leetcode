@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yohannes18/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Yohannes18/leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -63,4 +64,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yohannes18/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Yohannes18/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
