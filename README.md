@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yohannes18/leetcode/tree/master/0009-palindrome-number) |
+| [2050-count-good-numbers](https://github.com/Yohannes18/leetcode/tree/master/2050-count-good-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Yohannes18/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
@@ -80,4 +81,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yohannes18/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Yohannes18/leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
