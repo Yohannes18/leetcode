@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yohannes18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Yohannes18/leetcode/tree/master/0037-sudoku-solver) |
+| [1656-count-good-triplets](https://github.com/Yohannes18/leetcode/tree/master/1656-count-good-triplets) |
 | [1917-maximum-average-pass-ratio](https://github.com/Yohannes18/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yohannes18/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Yohannes18/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -68,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Yohannes18/leetcode/tree/master/1656-count-good-triplets) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Yohannes18/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
