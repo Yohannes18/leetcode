@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2050-count-good-numbers](https://github.com/Yohannes18/leetcode/tree/master/2050-count-good-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Yohannes18/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Yohannes18/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
