@@ -72,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Yohannes18/leetcode/tree/master/1656-count-good-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yohannes18/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Yohannes18/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Yohannes18/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
@@ -86,4 +87,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Yohannes18/leetcode/tree/master/2050-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yohannes18/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Yohannes18/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
